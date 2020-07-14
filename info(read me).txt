@@ -1,0 +1,16 @@
+-----------------------------------
+simple url shortner
+not much designs but does the basic functionality
+
+
+
+database name is "jovi_shortner"
+-----database must be imported
+-----the link is stored in the database
+-----no two same shortened links can be saved in the database
+
+
+
+
+the url is being shortened to a jovi link which is randomized 
+
